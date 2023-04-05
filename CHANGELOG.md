@@ -1,9 +1,28 @@
 # Table Of Contents
+1. [Version 0.6.0](#v030)
 1. [Version 0.3.0](#v030)
 1. [Version 0.2.1](#v021)
 1. [Version 0.2.0](#v020)
 1. [Version 0.1.0](#v010)
 1. [Version 0.0.8](#v008)
+
+
+---
+
+## v0.6.0, v0.5.0, v0.4.0
+
+### New Features
+
+* download config function
+* Bearer Token auth support
+
+### Enhancements
+
+* rewrite session handling
+
+### Bug Fixes
+
+None
 
 ---
 
