@@ -6,6 +6,8 @@ __version__ = "0.6.0"
 
 import requests
 import logging
+import os
+
 
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
